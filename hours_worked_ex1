@@ -1,0 +1,31 @@
+//Calcula cuántas horas debe trabajar Juan si quiere reunir cierta cantidad de dinero con cierta base salarial
+//por hora
+
+//Horas de trabajo(sueldo, meta)
+//horasTrabajadas (salary_per_hour, goals)
+
+//  begin
+//      Leer SalarioMensual
+//      Leer InversionNecesaria
+//      SalarioPorHora = ((SalarioMensual / 30.5)/8)
+//      HorasNecesarias = InversionNecesaria / SalarioPorHoras
+//      Imprimir HorasNecesarias
+//  end
+
+<!DOCTYPE html>
+<html>
+       <head>
+           <meta charset="UTF-R">
+           <script> type="application/javascript"
+                const promedioMensual = 30.5;
+                const salarioMensual = parseFloat(prompt("Cual es el salario Mensual?"));
+                const inversionNecesaria = parseFloat(prompt("Cual es la Inversion para el Viaje?"));
+                const salalrioPorHora = ((salarioMensual / promedioMensual) / 8);
+                const horasNecesarias = inversionNecesaria / salalrioPorHora;
+                alert(horasNecesarias);
+            </script>
+       </head>
+       <body>
+
+       </body>
+</html>
