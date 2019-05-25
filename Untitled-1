@@ -1,0 +1,20 @@
+1.- Calcula cuántas horas debe trabajar Juan si quiere reunir cierta cantidad de dinero con cierta base salarial por hora
+1.- Horas de trabajo(sueldo, meta)
+
+2.- Calcula cuánto vas a pagar por el super
+2.- Precio de Super(sal, azucar, cereal, arroz, helado)
+
+3.- Calcula tu dinero al final del mes
+3.- Presupuesto (ingreso1, ingreso2, gasto1, gasto2, gasto3)
+
+4.- Juan y jose inician con una cantidad de dinero diferente cada quien. Su abuelita les deja una herencia que se divide entre los dos en partes iguales - ¿Cuánto dinero tienen entre los 2  y cuanto dinero tiene cada uno después de recibir la herencia?
+4.- Herencia a nietos (jose, juan, herencia)
+
+5.- Memify es una startup que de dedica a hacer memes, hay 2 socios con el 50% de acciones cada una. ¿Cuánto dinero se queda cada quien si venden la startup y tienen que pagar el iva de su ganancia?
+5.- Memify (valor_startup)
+
+6.- Diego quiere comprar una compu, ¿Cuanto tiene que pagar si además del precio de la compu tiene que pagar el iva?
+6.- Compu Diego (compu)
+
+7.- Tus amigos van a un restaurante y se dividen la cuenta ¿Cuánto paga cada quien si se divide la cuenta en partes iguales y a
+7.- Restaurante (precio, individuos)
